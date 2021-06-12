@@ -9,12 +9,12 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="py-office-sheet",
+    name="py-office",
     version="0.1.1",
     description="py-office is a gui based on python to process data efficienly",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/YC-Lammy/py-office-sheet",
+    url="https://github.com/YC-Lammy/py-office",
     author="YC",
     author_email="yclam508@protonmail.com",
     platforms = "Linux, Mac OS X, Windows",
@@ -27,12 +27,12 @@ setup(
         'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: 3 :: Only',
     ],
-    packages=["pyOfficeSheet"],
+    packages=["pyOffice"],
     include_package_data=True,
     install_requires=["py-office-sheet"],
     entry_points={
         'console_scripts': [
-            'py-office-sheet=pyOfficeSheet.__main__:main',],
+            'py-office=pyOffice.__main__:main',],
     },
 )
 
