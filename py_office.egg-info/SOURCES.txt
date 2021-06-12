@@ -1,0 +1,9 @@
+README.md
+setup.py
+pyOffice/__main__.py
+py_office.egg-info/PKG-INFO
+py_office.egg-info/SOURCES.txt
+py_office.egg-info/dependency_links.txt
+py_office.egg-info/entry_points.txt
+py_office.egg-info/requires.txt
+py_office.egg-info/top_level.txt
