@@ -29,7 +29,7 @@ setup(
     ],
     packages=["pyOffice"],
     include_package_data=True,
-    install_requires=["py-office-sheet"],
+    install_requires=["py-office-sheet","py-office-learn"],
     entry_points={
         'console_scripts': [
             'py-office=pyOffice.__main__:main',],
