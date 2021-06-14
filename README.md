@@ -11,4 +11,4 @@
 ```
 pip install py-office
 ```
-this will install every component of the py-office listed above
+pip will install every component of the py-office listed above
