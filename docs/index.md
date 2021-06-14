@@ -1,3 +1,5 @@
+### [index](https://pyoffice.github.io/py-office/index.html)   [about](https://pyoffice.github.io/py-office/about.html)     [Downloads](https://pyoffice.github.io/py-office/downloads.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pyoffice/py-office/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
