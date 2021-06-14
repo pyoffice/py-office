@@ -11,7 +11,21 @@ powerful functions and features of the python library is by used of people who k
 ### [py-office-learn](https://github.com/YC-Lammy/py-office-learn) :  a gui for machine learning base on keras
 
 ## install
-### desktop icon install:
+### command line install:
+```
+pip install py-office
+```
+optional desktop icon install:
+```
+py-office setup
+```
+pip will install every component of the py-office listed above
+
+standalone py-office component is also avaliable on pip, such as:
+```
+pip install py-office-sheet
+```
+### installer install:
 linux:
 ```
 ./pyoffice_install_{your_os}.sh
@@ -23,14 +37,4 @@ not yet
 windows:
 ```
 not yet
-```
-### command line install(without icon):
-```
-pip install py-office
-```
-pip will install every component of the py-office listed above
-
-standalone py-office component is also avaliable on pip, such as:
-```
-pip install py-office-sheet
 ```
