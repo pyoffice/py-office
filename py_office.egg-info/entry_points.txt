@@ -1,3 +1,0 @@
-[console_scripts]
-py-office = pyOffice.__main__:main
-

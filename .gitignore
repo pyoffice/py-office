@@ -1,0 +1,15 @@
+.__pycache__/
+__pycache__/
+*.pyc
+*.pdobj
+*.npobj
+*.a
+*.out
+test.py
+.vscode
+entry
+*.egg-info
+dist/
+.dist/
+build/
+.build/
