@@ -15,10 +15,12 @@ powerful functions and features of the python library is by used of people who k
 ```
 pip install py-office
 ```
-optional desktop icon install:
+optional desktop icon install(GUI entry):
 ```
 py-office setup
 ```
+
+
 pip will install every component of the py-office listed above
 
 standalone py-office component is also avaliable on pip, such as:
