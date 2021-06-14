@@ -21,5 +21,6 @@ commands:    description:
 
     print('Usage: py-office <command> [<option>...]')
 
+
 if __name__ == '__main__':
     main()
