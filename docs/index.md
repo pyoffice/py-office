@@ -1,10 +1,8 @@
 ### [index](https://pyoffice.github.io/py-office/index.html)   [about](https://pyoffice.github.io/py-office/about.html)     [Downloads](https://pyoffice.github.io/py-office/downloads.html)
 
-## Welcome to GitHub Pages
+## Welcome to py-office
 
-You can use the [editor on GitHub](https://github.com/pyoffice/py-office/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+py-office is a work office application that expose powerful python features
 
 ### Markdown
 
