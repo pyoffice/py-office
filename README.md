@@ -19,8 +19,6 @@ optional desktop icon install(GUI entry):
 ```
 py-office setup
 ```
-
-
 pip will install every component of the py-office listed above
 
 standalone py-office component is also avaliable on pip, such as:
