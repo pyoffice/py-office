@@ -8,7 +8,7 @@ powerful functions and features of the python library is by used of people who k
  
 ### [py-office-sheet](https://github.com/YC-Lammy/py-office-sheet) : a gui spreadsheet based on numpy to process data efficienly 
 
-### [py-office-learn](https://github.com/YC-Lammy/py-office-learn) :  a gui for machine learning base on keras
+### [py-office-learn](https://github.com/YC-Lammy/py-office-learn) :  a gui for machine learning base on keras (constructing)
 
 ## install
 ### command line install:
