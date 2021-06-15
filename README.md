@@ -4,8 +4,9 @@
 
 
 # py-office
- a python work office.
+#### an opensource python work office focus on data management and machine learning
  
+## introduction
 ### the goal of this project is to build an easy to use office to manage data, analyze and further machine learning, exposing powerful features of python library to end users through GUI.
 ### another main concern is to bring machine learning to people who do not know how to code.
 powerful functions and features of the python library is by used of people who knows programming. End users lack the necessury knowledge to make use of them and may not even aware of the existance of such thing.
@@ -44,3 +45,14 @@ windows:
 ```
 not yet
 ```
+
+## Usage
+Linux and Windows:
+```
+$ py-office command
+```
+mac os:
+```
+$ python{version} -m pyOffice command
+```
+type `-help` for help
