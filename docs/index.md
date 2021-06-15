@@ -23,7 +23,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 8px 16px;
   text-decoration: none;
 }
 
@@ -37,12 +37,10 @@ li a:hover {
 </style>
 </head>
 
-### [index](https://pyoffice.github.io/py-office/index.html)   [about](https://pyoffice.github.io/py-office/about.html)     [Downloads](https://pyoffice.github.io/py-office/downloads.html)
-
 <ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
+  <li><a class="active" href="https://pyoffice.github.io/py-office/index.html">Home</a></li>
+  <li><a href="https://pyoffice.github.io/py-office/about.html">About</a></li>
+  <li><a href="https://pyoffice.github.io/py-office/downloads.html">Downloads</a></li>
 </ul>
 
 ## Welcome to py-office
