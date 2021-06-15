@@ -42,7 +42,7 @@ li a:hover {
   <li><a href="https://pyoffice.github.io/py-office/about.html">About</a></li>
   <li><a href="https://pyoffice.github.io/py-office/downloads.html">Downloads</a></li>
 </ul>
-
+<p></p>
 ## Welcome to py-office
 
 py-office is a work office application that expose powerful python features
