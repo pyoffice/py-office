@@ -10,8 +10,8 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
+  /*position: -webkit-sticky; /* Safari */
+  /*position: sticky;*/
   top: 0;
 }
 
