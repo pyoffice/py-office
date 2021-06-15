@@ -1,7 +1,7 @@
 <head>
 <style>
 body {
-  font-size: 28px;
+  font-size: 20px;
 }
 
 ul {
@@ -23,7 +23,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 8px 8px;
+  padding: 8px 16px;
   text-decoration: none;
 }
 
