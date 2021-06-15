@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/pyoffice/py-office-pictures/main/py-office-icon_small.png)
+
 # py-office
  a python work office.
  
