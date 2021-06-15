@@ -1,4 +1,7 @@
-![alt text](https://raw.githubusercontent.com/pyoffice/py-office-pictures/main/py-office-icon_small.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pyoffice/py-office-pictures/main/py-office-icon_small.png" />
+</p>
+
 
 # py-office
  a python work office.
