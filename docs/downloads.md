@@ -84,7 +84,7 @@ python3.x -m pyOffice setup
 
 Linux:
 [deb_installer](https://github.com/pyoffice/py-office/releases/download/v0.1.1/pyoffice_install_deb.sh)
-[dnf_installer](https://github.com/pyoffice/py-office/releases/download/v0.1.1/pyoffice_install_deb.sh)
+[dnf_installer](https://github.com/pyoffice/py-office/releases/download/v0.1.1/pyoffice_install_fed.sh)
 ```
 ./pyoffice_install.sh
 ```
