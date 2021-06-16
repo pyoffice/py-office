@@ -123,6 +123,7 @@ $ python{version} -m pyOffice command
 
 <p></p>
 commands:
+<p></p>
  `-help` for help
 <p></p>
  `sheet` to lauch py-office-sheet
