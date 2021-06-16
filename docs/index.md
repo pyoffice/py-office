@@ -21,7 +21,7 @@ li a, .dropbtn {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: green;
 }
 
 li.dropdown {
@@ -122,8 +122,11 @@ $ python{version} -m pyOffice command
 ```
 <p></p>
 commands:
+
 - `-help` for help
+
 - `sheet` to lauch py-office-sheet
+
 - `learn` to lauch py-office-learn
 
 
