@@ -20,11 +20,11 @@ powerful functions and features of the python library is by used of people who k
 ## install
 ### command line install:
 ```
-pip install py-office
+python3.X -m pip install py-office
 ```
 optional desktop icon install(GUI entry):
 ```
-py-office setup
+python3.X -m pyOffice setup
 ```
 pip will install every component of the py-office listed above
 
