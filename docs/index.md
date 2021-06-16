@@ -122,13 +122,12 @@ $ python{version} -m pyOffice command
 ```
 <p></p>
 commands:
-
 - `-help` for help
-
+<p></p>
 - `sheet` to lauch py-office-sheet
-
+<p></p>
 - `learn` to lauch py-office-learn
-
+<p></p>
 
 ```markdown
 Syntax highlighted code block
